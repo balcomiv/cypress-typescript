@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Cypress Typescript && Jest Help
+- https://docs.cypress.io/guides/tooling/typescript-support.html#Configure-tsconfig-json
+
+## Cypress Project Module Import Help
+- https://stackoverflow.com/questions/53236968/import-project-module-in-cypress
